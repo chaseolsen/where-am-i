@@ -1,5 +1,3 @@
-
-
   <footer>
     <div class="row navbar-default">
       <div class="col-md-8">
