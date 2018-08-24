@@ -1,2 +1,2 @@
 # where-am-i
-Basic custom WP theme for educational purposes.
+One of my older custom WP themes built for educational purposes.
